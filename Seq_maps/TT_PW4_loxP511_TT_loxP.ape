@@ -1,0 +1,131 @@
+LOCUS       TT_PW4_loxP511_T         433 bp    DNA        linear       08-DEC-2021
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     protein_bind    383..416
+                     /bound_moiety="Cre recombinase"
+                     /note="Cre-mediated recombination occurs in the 8-bp core
+                     sequence (GCATACAT)."
+                     /locus_tag="loxP"
+                     /label="loxP"
+                     /ApEinfo_label="loxP"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     protein_bind    233..266
+                     /bound_moiety="Cre recombinase"
+                     /note="Cre-mediated recombination occurs in the 8-bp core
+                     sequence (GCATACAT)."
+                     /locus_tag="loxP511"
+                     /label="loxP511"
+                     /ApEinfo_label="loxP511"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    162..232
+                     /locus_tag="PW4"
+                     /label="PW4"
+                     /ApEinfo_label="PW4"
+                     /ApEinfo_fwdcolor="#f744ff"
+                     /ApEinfo_revcolor="#f744ff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    1..6
+                     /note="pUC18/19 multiple cloning site"
+                     /locus_tag="MCS"
+                     /label="MCS"
+                     /ApEinfo_label="MCS"
+                     /ApEinfo_fwdcolor="#7eff74"
+                     /ApEinfo_revcolor="#7eff74"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    269..321
+                     /locus_tag="ECK120033736"
+                     /label="ECK120033736"
+                     /ApEinfo_label="ECK120033736"
+                     /ApEinfo_fwdcolor="#ffa05d"
+                     /ApEinfo_revcolor="#ffa05d"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    complement(7..12)
+                     /locus_tag="BclI-HF"
+                     /label="BclI-HF"
+                     /ApEinfo_label="BclI-HF"
+                     /ApEinfo_fwdcolor="#ff001e"
+                     /ApEinfo_revcolor="#ff001e"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    324..380
+                     /locus_tag="L3S2P11"
+                     /label="L3S2P11"
+                     /ApEinfo_label="L3S2P11"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    68..108
+                     /locus_tag="BBa_B0062-R"
+                     /label="BBa_B0062-R"
+                     /ApEinfo_label="BBa_B0062-R"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    15..65
+                     /locus_tag="L351P13"
+                     /label="L351P13"
+                     /ApEinfo_label="L351P13"
+                     /ApEinfo_fwdcolor="#89ff89"
+                     /ApEinfo_revcolor="#89ff89"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    111..159
+                     /locus_tag="L3S3P22"
+                     /label="L3S3P22"
+                     /ApEinfo_label="L3S3P22"
+                     /ApEinfo_fwdcolor="#fdff0f"
+                     /ApEinfo_revcolor="#fdff0f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     source          1..6
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+                     /locus_tag="source:synthetic DNA construct"
+                     /label="source:synthetic DNA construct"
+                     /ApEinfo_label="source:synthetic DNA construct"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             1..6
+                     /codon_start=1
+                     /gene="lacZ fragment"
+                     /product="LacZ-alpha fragment of beta-galactosidase"
+                     /translation="MTMITPSLHACRSTLEDPRVPSSNSLAVVLQRRDWENPGVTQLN
+                     R
+                     LAAHPPFASWRNSEEARTDRPSQQLRSLNGEWRLMRYFLLTHLCGISHRIWCTLSTIC
+                     S DAA"
+                     /locus_tag="lacZ-alpha"
+                     /label="lacZ-alpha"
+                     /ApEinfo_label="lacZ-alpha"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+ORIGIN
+        1 aagcttTGAT CAatGACGAA CAATAAGGCC TCCCTAACGG GGGGCCTTTT TTATTGATAA
+       61 CAAAAcacag ataaaaaaaa tccttagctt tcgctaagga tgatttctat CCAATTATTG
+      121 AAGGCCGCTA ACGCGGCCTT TTTTTGTTTC TGGTCTCCCg attatcaaaa agagtattgc
+      181 attaaagtct aacctatagg aatcttacag ccatcgagag ggacacggcg aaATAACTTC
+      241 GTATAGTATA CATTATACGA AGTTATcaaa cgcatgagAA AGCCCCCGGA AGATCACCTT
+      301 CCGGGGGCTT Ttttattgcg cacCTCGGTA CCAAATTCCA GAAAAGAGAC GCTTTCGAGC
+      361 GTCTTTTTTC GTTTTGGTCC acataacttc gtatagcata cattatacga agttatttta
+      421 agaaggaGAA TTC    
+//

@@ -1,0 +1,294 @@
+LOCUS       3VY4FC_1_1203202        4417 bp    DNA        circular     30-DEC-2025
+DEFINITION  12032025_pEG125a.
+ACCESSION   12032025_pEG125a
+VERSION     12032025_pEG125a
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . .
+COMMENT     Annotated with pLannotate v1.2.2
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     rep_origin      1..546
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="rep_origin"
+                     /description="Plasmids containing the medium-copy-number
+                     p15A origin of replication can be propagated in E. coli
+                     cells that contain a second plasmid with the ColE1 origin.
+                     "
+                     /locus_tag="p15A ori"
+                     /label="p15A ori"
+                     /ApEinfo_label="p15A ori"
+                     /ApEinfo_fwdcolor="#999999"
+                     /ApEinfo_revcolor="#999999"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(1087..1797)
+                     /note="pLannotate"
+                     /database="fpbase"
+                     /identity="99.2"
+                     /match_length="99.2"
+                     /fragment="False"
+                     /other="CDS"
+                     /description=""
+                     /locus_tag="SYFP2"
+                     /label="SYFP2"
+                     /ApEinfo_label="SYFP2"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             2358..3218
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="99.8"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+                     /description="β-lactamase; bla; confers resistance to
+                     ampicillin, carbenicillin, and related antibiotics"
+                     /locus_tag="AmpR"
+                     /label="AmpR"
+                     /ApEinfo_label="AmpR"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             3514..4329
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="99.9"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+                     /description="aminoglycoside phosphotransferase;
+                     aph(3')-Ia; confers resistance to kanamycin in bacteria or
+                     G418 (Geneticin®) in eukaryotes"
+                     /locus_tag="KanR"
+                     /label="KanR"
+                     /ApEinfo_label="KanR"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     promoter        2253..2357
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+                     /description="bla"
+                     /locus_tag="AmpR promoter"
+                     /label="AmpR promoter"
+                     /ApEinfo_label="AmpR promoter"
+                     /ApEinfo_fwdcolor="#346ee0"
+                     /ApEinfo_revcolor="#346ee0"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     terminator      complement(960..1046)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="terminator"
+                     /description="Escherichia coli rrnB; transcription
+                     terminator T1 from the E. coli rrnB gene"
+                     /locus_tag="rrnB T1 terminator"
+                     /label="rrnB T1 terminator"
+                     /ApEinfo_label="rrnB T1 terminator"
+                     /ApEinfo_fwdcolor="#9d1b1c"
+                     /ApEinfo_revcolor="#9d1b1c"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     protein_bind    complement(1996..2029)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="protein_bind"
+                     /description="Cre-mediated recombination occurs in the
+                     8-bp core sequence (GCATACAT). Cre recombinase"
+                     /locus_tag="loxP"
+                     /label="loxP"
+                     /ApEinfo_label="loxP"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     protein_bind    complement(1846..1879)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="protein_bind"
+                     /description="Cre-mediated recombination occurs in the
+                     8-bp core sequence (GCATACAT). Cre recombinase"
+                     /locus_tag="loxP(1)"
+                     /label="loxP(1)"
+                     /ApEinfo_label="loxP"
+                     /ApEinfo_fwdcolor="#00D95A"
+                     /ApEinfo_revcolor="#00D95A"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     terminator      2133..2172
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="90.9"
+                     /fragment="True"
+                     /other="terminator"
+                     /description="putative bacterial transcription terminator"
+                     /locus_tag="bacterial terminator (fragment)"
+                     /label="bacterial terminator (fragment)"
+                     /ApEinfo_label="bacterial terminator (fragment)"
+                     /ApEinfo_fwdcolor="#9d1b1c"
+                     /ApEinfo_revcolor="#9d1b1c"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(1057..1076)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="35.1"
+                     /fragment="True"
+                     /other="misc_feature"
+                     /description="pUC18/19 multiple cloning site"
+                     /locus_tag="MCS (fragment)"
+                     /label="MCS (fragment)"
+                     /ApEinfo_label="MCS (fragment)"
+                     /ApEinfo_fwdcolor="#7eff74"
+                     /ApEinfo_revcolor="#7eff74"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     rep_origin      634..689
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="7.5"
+                     /fragment="True"
+                     /other="rep_origin"
+                     /description="Plasmids containing the RSF 1030 origin of
+                     replication can be propagated in E. coli cells that
+                     contain additional plasmids with compatible origins. "
+                     /locus_tag="RSF ori (fragment)"
+                     /label="RSF ori (fragment)"
+                     /ApEinfo_label="RSF ori (fragment)"
+                     /ApEinfo_fwdcolor="#999999"
+                     /ApEinfo_revcolor="#999999"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     repeat_region   complement(837..848)
+                     /note="pLannotate"
+                     /database="itrs"
+                     /identity="100.0"
+                     /match_length="8.3"
+                     /fragment="True"
+                     /other="repeat_region"
+                     /description="AAV2 ITR Flip"
+                     /locus_tag="AAV2 ITR (fragment)"
+                     /label="AAV2 ITR (fragment)"
+                     /ApEinfo_label="AAV2 ITR (fragment)"
+                     /ApEinfo_fwdcolor="#0dfff7"
+                     /ApEinfo_revcolor="#0dfff7"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    1882..1938
+                     /locus_tag="L3S2P11"
+                     /label="L3S2P11"
+                     /ApEinfo_label="L3S2P11"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    1941..1993
+                     /locus_tag="ECK120033736"
+                     /label="ECK120033736"
+                     /ApEinfo_label="ECK120033736"
+                     /ApEinfo_fwdcolor="#ff792f"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 ttgagatcgt tttggtctgc gcgtaatctc ttgctctgaa aacgaaaaaa ccgccttgca
+       61 gggcggtttt tcgaaggttc tctgagctac caactctttg aaccgaggta actggcttgg
+      121 aggagcgcag tcaccaaaac ttgtcctttc agtttagcct taaccggcgc atgacttcaa
+      181 gactaactcc tctaaatcaa ttaccagtgg ctgctgccag tggtgctttt gcatgtcttt
+      241 ccgggttgga ctcaagacga tagttaccgg ataaggcgca gcggtcggac tgaacggggg
+      301 gttcgtgcat acagtccagc ttggagcgaa ctgcctaccc ggaactgagt gtcaggcgtg
+      361 gaatgagaca aacgcggcca taacagcgga atgacaccgg taaaccgaaa ggcaggaaca
+      421 ggagagcgca cgagggagcc gccaggggga aacgcctggt atctttatag tcctgtcggg
+      481 tttcgccacc actgatttga gcgtcagatt tcgtgatgct tgtcaggggg gcggagccta
+      541 tggaaaaacg gctttgccgc ggccctctca cttccctgtt aagtatcttc ctggcatctt
+      601 ccaggaaatc tccgccccgt tcgtaagcca tttccgctcg ccgcagtcga acgaccgagc
+      661 gtagcgagtc agtgagcgag gaagcggaat atatcctgta tcacatattc tgctgacgca
+      721 ccggtgcagc cttttttctc ctgccacatg aagcacttca ctgacaccct catcagtgcc
+      781 aacatagtaa gccagtatac actccgctag cgctgaggtc tgcctcgtgc agcgagtcag
+      841 tgagcgagga agcacctcat tcgatggcgc gccgccattg gaccaaaacg aaaaaaggcc
+      901 cccctttcgg gaggcctctt ttctggaatt tggtaccgag ctcgagcaat acgcaaacga
+      961 tttgtcctac tcaggagagc gttcaccgac aaacaacaga taaaacgaaa ggcccagtct
+     1021 ttcgactgag cctttcgttt tatttgatgc ctctagagct tgcatgcctg caggtctgga
+     1081 catttatttg tatagttcat ccatgccatg tgtaatccca gcagctgtta caaactcaag
+     1141 aaggaccatg tggtctctct tttcgttggg atctttcgaa agcttagatt ggtaggacag
+     1201 gtaatggttg tctggtaaaa ggacagggcc atcgccaatt ggagtatttt gttgataatg
+     1261 gtctgctagt tgaacacctc catcttcaat gttgtgtcta attttgaagt tcgctttgat
+     1321 tccattcttt tgtttgtctg ccgtgatgta tacattgtgt gagttatagt tgtattccaa
+     1381 tttgtgtcca agaatgtttc catcttcttt aaaatcaata ccttttaact cgattctatt
+     1441 aacaagggta tcaccttcaa acttgacctc agcacgtgtc ttgtagttcc cgtcatcttt
+     1501 gaaaaatata gttctttcct gtacataacc ttcgggcatg gcactcttga aaaagtcatg
+     1561 ctgtttcata tgatctgggt atctcgcaaa gcattgagca ccataaccca aagtagtgac
+     1621 aagtgttggc catggaacag gtagttttcc agtagtgcaa atcaatttaa gggtaagttt
+     1681 tccgtatgtt gcatcacctt caccctctcc actgacagaa aatttgtgcc cattaacatc
+     1741 accatctaat tcaacaagaa ttgggacaac tccagtgaaa agttcttctc ctttactcat
+     1801 ctagtatttc tcctctttga ggctgtttcg tccttccttc ttaaaataac ttcgtataat
+     1861 gtatgctata cgaagttatg tggaccaaaa cgaaaaaaga cgctcgaaag cgtctctttt
+     1921 ctggaatttg gtaccgaggt gcgcaataaa aaagcccccg gaaggtgatc ttccgggggc
+     1981 tttctcatgc gtttgataac ttcgtataat gtatgctata cgaagttatt tcgccgtgtc
+     2041 cctctccgaa ttttagggcg atgccgaaaa ggtgtcaaga aatataccag aaacaaaaaa
+     2101 aggccgcgtt agcggccttc aataattgga tagaaatcat ccttagcgaa agctaaggat
+     2161 tttttttatc tgtgttttgt tatcaataaa aaaggccccc cgttagggag gccttattgt
+     2221 tcgtcattga tcaaagcttt cggggaaatg tgcgcggaac ccctatttgt ttatttttct
+     2281 aaatacattc aaatatgtat ccgctcatga gacaataacc ctgataaatg cttcaataat
+     2341 attgaaaaag gaagagtatg agtattcaac atttccgtgt cgcccttatt cccttttttg
+     2401 cggcattttg ccttcctgtt tttgctcacc cagaaacgct ggtgaaagta aaagatgctg
+     2461 aagatcagtt gggtgcacga gtgggttaca tcgaactgga tctcaacagc ggtaagatcc
+     2521 ttgagagttt tcgccccgaa gaacgttttc caatgatgag cacttttaaa gttctgctat
+     2581 gtggcgcggt attatcccgt attgacgccg ggcaagagca actcggtcgc cgcatacact
+     2641 attctcagaa tgacttggtt gagtactcac cagtcacaga aaagcatctt acggatggca
+     2701 tgacagtaag agaattatgc agtgctgcca taaccatgag tgataacact gcggccaact
+     2761 tacttctgac aacgatcgga ggaccgaagg agctaaccgc ttttttgcac aacatggggg
+     2821 atcatgtaac tcgccttgat cgttgggaac cggagctgaa tgaagccata ccaaacgacg
+     2881 agcgtgacac cacgatgcct gtagcaatgg caacaacgtt gcgcaaacta ttaactggcg
+     2941 aactacttac tctagcttcc cggcaacaat taatagactg gatggaggcg gataaagttg
+     3001 caggaccact tctgcgctcg gcccttccgg ctggctggtt tattgctgat aaatctggag
+     3061 ccggtgagcg tgggtctcgc ggtatcattg cagcactggg gccagatggt aagccctccc
+     3121 gtatcgtagt tatctacacg acggggagtc aggcaactat ggatgaacga aatagacaga
+     3181 tcgctgagat aggtgcctca ctgattaagc attggtaact gtcagaccaa gtttactcat
+     3241 atatacttta gattgattta aaacttcatt tttaatttaa aaggatctag gtgaagatcc
+     3301 tttttgataa tctcatgacc aaaatccctt aacgtgagtt ttcgtttaat taagttaagc
+     3361 gggagaccag aaacaaaaaa aggccccccg ttagggaggc cttcaataat tggttgtgtc
+     3421 tcaaaatctc tgatgtacat tgcacaagat aaaaatatat catcatgaac aataaaactg
+     3481 tctgcttaca taaacagtaa tacaaggggt gttatgagcc atattcaacg ggaaacgtct
+     3541 tgctccaggc cgcgattaaa ttccaacatg gatgctgatt tatatgggta taaatgggct
+     3601 cgcgataatg tcgggcaatc aggtgcgaca atctatcgat tgtatgggaa gcccgatgcg
+     3661 ccagagttgt ttctgaaaca tggcaaaggt agcgttgcca atgatgttac agatgagatg
+     3721 gtcagactaa actggctgac ggaatttatg cctcttccga ccatcaagca ttttatccgt
+     3781 actcctgatg atgcatggtt actcaccact gcgatccccg ggaaaacagc attccaggta
+     3841 ttagaagaat atcctgattc aggtgaaaat attgttgatg cgctggcagt gttcctgcgc
+     3901 cggttgcatt cgattcctgt ttgtaattgt ccttttaaca gcgatcgcgt atttcgtctc
+     3961 gctcaggcgc aatcacgaat gaataacggt ttggttgatg cgagtgattt tgatgacgag
+     4021 cgtaatggct ggcctgttga acaagtctgg aaagaaatgc ataagctttt gccattctca
+     4081 ccggattcag tcgtcactca tggtgatttc tcacttgata accttatttt tgacgagggg
+     4141 aaattaatag gttgtattga tgttggacga gtcggaatcg cagaccgata ccaggatctt
+     4201 gccatcctat ggaactgcct cggtgagttt tctccttcat tacagaaacg gctttttcaa
+     4261 aaatatggta ttgataatcc tgatatgaat aaattgcagt ttcatttgat gctcgatgag
+     4321 tttttctaag gtaactgtca gaccaagttt actcatatat actttagatt gatttttcgt
+     4381 tccactgagc gtcagacccc ttaataagat gatcttc  
+//

@@ -1,0 +1,112 @@
+LOCUS       pEG51C                 2627 bp    DNA     circular SYN 27-AUG-2022
+DEFINITION  .
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+COMMENT     Annotated with pLannotate v1.2.0
+FEATURES             Location/Qualifiers
+     CDS             complement(399..1214)
+                     /note="pLannotate"
+                     /label="KanR"
+                     /database="snapgene"
+                     /identity="99.9"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     rep_origin      complement(join(2393..2627,1..310))
+                     /note="pLannotate"
+                     /label="p15A ori"
+                     /database="snapgene"
+                     /identity="99.8"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="rep_origin"
+     protein_bind    1386..1413
+                     /note="pLannotate"
+                     /label="CuO"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="protein_bind"
+     protein_bind    1444..1471
+                     /note="pLannotate"
+                     /label="CuO"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="protein_bind"
+     CDS             1526..2179
+                     /note="pLannotate"
+                     /label="cre (fragment)"
+                     /database="swissprot"
+                     /identity="99.5"
+                     /match_length="63.6"
+                     /fragment="True"
+                     /other="CDS"
+     misc_RNA        1478..1508
+                     /note="pLannotate"
+                     /label="sTRSV HHRz (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="59.6"
+                     /fragment="True"
+                     /other="misc_RNA"
+     rep_origin      complement(2250..2305)
+                     /note="pLannotate"
+                     /label="RSF ori (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="7.5"
+                     /fragment="True"
+                     /other="rep_origin"
+ORIGIN
+        1 atgcacgaac cccccgttca gtccgaccgc tgcgccttat ccggtaacta tcgtcttgag
+       61 tccaacccgg aaagacatgc aaaagcacca ctggcagcag ccactggtaa ttgatttaga
+      121 ggagttagtc ttgaagtcat gcgccggtta aggctaaact gaaaggacaa gttttggtga
+      181 ctgcgctcct ccaagccagt tacctcggtt caaagagttg gtagctcaga gaaccttcga
+      241 aaaaccgccc tgcaaggcgg ttttttcgtt ttcagagcaa gagattacgc gcagaccaaa
+      301 acgatctcaa gaagatcatc ttattaaggg gtctgacgct cagtggaacg aaaaatcaat
+      361 ctaaagtata tatgagtaaa cttggtctga cagttacctt agaaaaactc atcgagcatc
+      421 aaatgaaact gcaatttatt catatcagga ttatcaatac catatttttg aaaaagccgt
+      481 ttctgtaatg aaggagaaaa ctcaccgagg cagttccata ggatggcaag atcctggtat
+      541 cggtctgcga ttccgactcg tccaacatca atacaaccta ttaatttccc ctcgtcaaaa
+      601 ataaggttat caagtgagaa atcaccatga gtgacgactg aatccggtga gaatggcaaa
+      661 agcttatgca tttctttcca gacttgttca acaggccagc cattacgctc gtcatcaaaa
+      721 tcactcgcat caaccaaacc gttattcatt cgtgattgcg cctgagcgag acgaaatacg
+      781 cgatcgctgt taaaaggaca attacaaaca ggaatcgaat gcaaccggcg caggaacact
+      841 gccagcgcat caacaatatt ttcacctgaa tcaggatatt cttctaatac ctggaatgct
+      901 gttttcccgg ggatcgcagt ggtgagtaac catgcatcat caggagtacg gataaaatgc
+      961 ttgatggtcg gaagaggcat aaattccgtc agccagttta gtctgaccat ctcatctgta
+     1021 acatcattgg caacgctacc tttgccatgt ttcagaaaca actctggcgc atcgggcttc
+     1081 ccatacaatc gatagattgt cgcacctgat tgcccgacat tatcgcgagc ccatttatac
+     1141 ccatataaat cagcatccat gttggaattt aatcgcggcc tggagcaaga cgtttcccgt
+     1201 tgaatatggc tcataacacc ccttgtatta ctgtttatgt aagcagacag ttttattgtt
+     1261 catgatgata tatttttatc ttgtgcaatg tacatcagag attttgagac acaaccaatt
+     1321 attgaaggcc tccctaacgg ggggcctttt ttgtttctgg tctcccgctt aacgatcgtt
+     1381 ggctgaacaa acagacaatc tggtctgttt gtattatgga aaatttttct gtataataga
+     1441 ttcaacaaac agacaatctg gtctgtttgt attatagctg tcaccggatg tgctttccgg
+     1501 tctgatgaaa gaggggaaat actagatgtc caacctgctg acggtgcacc agaatctgcc
+     1561 ggcactgccg gtcgatgcaa ccagtgacga agtgcgcaaa aatctgatgg atatgtttcg
+     1621 tgaccgccaa gccttcagcg aacatacgtg gaaaatgctg ctgtcggttt gccgtagctg
+     1681 ggcggcctgg tgtaaactga acaatcgcaa atggtttccg gcagaaccgg aagatgtgcg
+     1741 tgactatctg ctgtacctgc aggcacgtgg tctggcagtt aaaaccatcc agcaacatct
+     1801 gggccaactg aacatgctgc accgtcgctc tggtctgccg cgtccgagtg attccaatgc
+     1861 cgtcagtctg gtgatgcgtc gcattcgtaa agaaaacgtg gatgcaggcg aacgcgctaa
+     1921 acaggcactg gcttttgaac gtaccgattt cgaccaagtt cgctctctga tggaaaacag
+     1981 tgatcgttgc caggacatcc gcaatctggc attcctgggt attgcttata acaccctgct
+     2041 gcgcattgca gaaatcgctc gtattcgcgt gaaagatatc agccgtacgg acggcggtcg
+     2101 catgctgatt cacatcggcc gtaccaaaac gctggtttcc accgcgggcg tcgaaaaagc
+     2161 cctgtcactg ggtgtcagtg aagtgcttca tgtggcagga gaaaaaaggc tgcaccggtg
+     2221 cgtcagcaga atatgtgata caggatatat tccgcttcct cgctcactga ctcgctacgc
+     2281 tcggtcgttc gactgcggcg agcggaaatg gcttacgaac ggggcggaga tttcctggaa
+     2341 gatgccagga agatacttaa cagggaagtg agagggccgc ggcaaagccg tttttccata
+     2401 ggctccgccc cctgacaagc atcacgaaat ctgacgctca aatcagtggt ggcgaaaccc
+     2461 gacaggacta taaagatacc aggcgtttcc ccctggcggc tccctcgtgc gctctcctgt
+     2521 tcctgccttt cggtttaccg gtgtcattcc gctgttatgg ccgcgtttgt ctcattccac
+     2581 gcctgacact cagttccggg taggcagttc gctccaagct ggactgt
+//
